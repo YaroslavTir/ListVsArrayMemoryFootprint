@@ -11,10 +11,10 @@ List size: 24000024 bytes, or 22 MB
 ArrayVsListMemoryPrintForProfiler
 
 * array
-!(https://github.com/YaroslavTir/ListVsArrayMemoryFootprint/blob/master/info/array.png)
+![array](https://github.com/YaroslavTir/ListVsArrayMemoryFootprint/blob/master/info/array.png)
 
 * list
-!(https://github.com/YaroslavTir/ListVsArrayMemoryFootprint/blob/master/info/list.png)
+![list](https://github.com/YaroslavTir/ListVsArrayMemoryFootprint/blob/master/info/list.png)
 
 * array+list
-!(https://github.com/YaroslavTir/ListVsArrayMemoryFootprint/blob/master/info/arrayAndList.png)
+![array+list](https://github.com/YaroslavTir/ListVsArrayMemoryFootprint/blob/master/info/arrayAndList.png)
