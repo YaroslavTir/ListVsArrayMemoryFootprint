@@ -2,10 +2,13 @@
 
 ArrayVsListMemoryPrint 
 * with data
-Array size: 124000016 bytes, or 118 MB
+
+Array size: 124000016 bytes, or 118 MB<br />
 List size: 144000024 bytes, or 137 MB
+
 * without data
-Array size: 4000016 bytes, or 3 MB
+
+Array size: 4000016 bytes, or 3 MB<br />
 List size: 24000024 bytes, or 22 MB
 
 ArrayVsListMemoryPrintForProfiler
